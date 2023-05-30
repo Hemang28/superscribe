@@ -1,0 +1,124 @@
+.right-con{
+    width: 50%;
+    /* top: 195px;
+    left: 700px;
+    width: 699px; */
+    /* border: 1px solid white; */
+    /*
+    position: relative;
+     */
+    padding: 30px;
+    font-size: 20px;
+    padding-left: 80px;
+    color: white;
+    margin-right: 200px;
+}
+
+
+.left-con{
+    width: 50%;
+    /* border: 1px solid white; */
+    padding-left: 180px;
+}
+
+.con1{
+    /* margin-top: 80px; */
+    display: flex;
+    height: 580px;
+    padding: 20px;
+}
+
+.main{
+    background-color: #4D455D;
+
+}
+img{
+    margin-top: 1px;
+    width: 500px;
+    /* width: 20px; */
+    /* border-radius: 200px; */
+    float: right;
+    /* padding-left: 60px; */
+    margin-bottom: 50px;
+}
+
+.btn-start{
+    font-weight:bold;
+    /* background-color: #b244b4; */
+    /* background: linear-gradient(270deg, rgb(248, 121, 182) 0px, rgb(153, 130, 237)); */
+    color: #302b63;
+    background-color: #fff;
+    border: none;
+    font-weight: 500;
+    width: 170px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 280px;
+}
+/* .howit-works{
+    color: aliceblue;
+    top: 16cm;
+    display: flex;
+    position: absolute;
+    left: 15cm;
+    font-size: 31px;
+    font-style: italic;
+
+} */
+
+li{
+    padding: 5px;
+}
+
+/* .con2{
+    margin: 3px;
+    font-size: 23px;
+    color: white;
+    width: 1149px;
+    /* border: 1px solid white; */
+    /* position: relative;
+    top: 9cm;
+    left: 6cm;
+    padding: 8px;
+}*/
+
+/* .con1-img{
+    left: 62px;
+    position: relative;
+    border-radius: 200px;
+    top: 9cm;
+    width: 373px;
+} */
+
+.con-2-i{
+    max-width: fit-content;
+    /* border: 1px solid white; */
+    font-size: px;
+    color: white;
+    /* width: 50%; */
+    margin: auto;
+    padding: 2px;
+}
+
+.con-2-ii{
+    background-color: #E96479;
+    /* margin-top: 2px; */
+    /* border: 1px solid white; */
+    color: rgb(30, 15, 15);
+    font-size: 20px;
+    margin-right: 130px;
+    margin-left: 130px;
+    /* margin-bottom: 200px; */
+    align-items: center;
+    margin: auto;
+    max-width: fit-content;
+    
+}
+
+.content2{
+    background-color: #E96479;
+    color: rgb(30, 15, 15);
+
+}

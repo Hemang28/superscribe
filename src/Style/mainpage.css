@@ -1,0 +1,37 @@
+.heading{
+    color: white;
+    align-items: center;
+    margin: auto;
+    max-width: fit-content;
+    font-size: larger;
+    margin-bottom: 50px;
+}
+
+.btn-option{
+    margin: 5px;
+    padding: 15px;
+    background-color: white;
+    color: #302b63;
+    font-size: 20px;
+    border-radius: 25px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.btn-option:focus{
+    background-color: rgba(155, 85, 85, 0.854);
+    color: white;
+
+}
+
+.option{
+    margin-left: 170px;
+    margin-bottom: 30px;
+}
+
+.btn-option:hover{
+    background-color: #81808a;
+    color: black;
+    font-size: 22px;
+
+}
